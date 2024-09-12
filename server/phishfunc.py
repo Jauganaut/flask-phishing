@@ -16,6 +16,7 @@ templates = [
     ["Insta_Followers","insta_followers"],
     ["netflix","netflix"],
     ["Facebook","facebook"],
+    ["Wetransfer","wetransfer"],
 ]
         
         
